@@ -1,2 +1,0 @@
-# DevopsNotes
-tools
